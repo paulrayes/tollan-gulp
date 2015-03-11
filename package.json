@@ -34,6 +34,8 @@
     "bundle-collapser": "~1.1.1",
     "rsyncwrapper": "~0.4.1",
     "deepmerge": "~0.2.7",
-    "jshint-stylish": "~1.0.0"
+    "jshint-stylish": "~1.0.0",
+    "cssnext": "~1.0.1",
+    "gulp-cssnext": "~1.0.0"
   }
 }

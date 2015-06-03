@@ -1,6 +1,6 @@
 {
   "name": "tollan-gulp",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Set of build tools designed to be used with Tollan applications/modules.",
   "author": "Paul Rayes <paul@rayes.io>",
   "license": "apache-2.0",
